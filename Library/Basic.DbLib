@@ -1,0 +1,1622 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\shyul\OneDrive - Facebook\Projects\Altium\Library\Basic\Basic.accdb;Persist Security Info=False
+AddMode=2
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access 2007
+LibraryDatabasePath=Basic\Basic.accdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Resistor - 2512
+[Table1]
+SchemaName=
+TableName=Capacitor - 008004
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=289|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=124|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=125
+[Table2]
+SchemaName=
+TableName=Capacitor - 01005
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=283|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=57|Package Name0=97|Mfg Name0=76|Mfg PN0=127
+[Table3]
+SchemaName=
+TableName=Capacitor - 01005 - Hi-Q
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=309|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=178|Sim Model Name0=123|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=123
+[Table4]
+SchemaName=
+TableName=Capacitor - 015008
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=264|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=126|Sim Parameters0=100|Item ID0=89|Value0=63|Package Name0=97|Mfg Name0=76|Mfg PN0=126
+[Table5]
+SchemaName=
+TableName=Capacitor - 0201
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=283|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=63|Package Name0=97|Mfg Name0=76|Mfg PN0=127
+[Table6]
+SchemaName=
+TableName=Capacitor - 0201 - AEC-Q200
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=336|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=57|Package Name0=97|Mfg Name0=76|Mfg PN0=127
+[Table7]
+SchemaName=
+TableName=Capacitor - 0201 - Hi-Q
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=309|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=178|Sim Model Name0=124|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=124
+[Table8]
+SchemaName=
+TableName=Capacitor - 0402
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=266|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=125
+[Table9]
+SchemaName=
+TableName=Capacitor - 0402 - AEC-Q200
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=336|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=63|Package Name0=97|Mfg Name0=76|Mfg PN0=127
+[Table10]
+SchemaName=
+TableName=Capacitor - 0402 - AEC-Q200/Hi-Q
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=362|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=179|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=125
+[Table11]
+SchemaName=
+TableName=Capacitor - 0402 - Hi-Q
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=309|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=178|Sim Model Name0=124|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=124
+[Table12]
+SchemaName=
+TableName=Capacitor - 0402 - Hi-Q/Hi-Power
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=372|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=182|Sim Model Name0=128|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=128
+[Table13]
+SchemaName=
+TableName=Capacitor - 0603
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=266|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=125
+[Table14]
+SchemaName=
+TableName=Capacitor - 0603 - AEC-Q200
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=342|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=125
+[Table15]
+SchemaName=
+TableName=Capacitor - 0603 - Hi-Q/Hi-Power
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=372|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=182|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=127
+[Table16]
+SchemaName=
+TableName=Capacitor - 0704
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=258|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=123
+[Table17]
+SchemaName=
+TableName=Capacitor - 0805
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=269|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=75|Package Name0=97|Mfg Name0=76|Mfg PN0=128
+[Table18]
+SchemaName=
+TableName=Capacitor - 0805 - AEC-Q200
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=119|Comment0=72|Description0=326|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=124|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=126
+[Table19]
+SchemaName=
+TableName=Capacitor - 0805 - Hi-Q/Hi-Power
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=372|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=182|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=129
+[Table20]
+SchemaName=
+TableName=Capacitor - 1111 - Hi-Q/Hi-Power
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=372|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=182|Sim Model Name0=129|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=132
+[Table21]
+SchemaName=
+TableName=Capacitor - 1206
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=273|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=126|Sim Parameters0=100|Item ID0=89|Value0=75|Package Name0=97|Mfg Name0=76|Mfg PN0=128
+[Table22]
+SchemaName=
+TableName=Capacitor - 1206 - AEC-Q200
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=326|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=129
+[Table23]
+SchemaName=
+TableName=Capacitor - 1210
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=118|Comment0=72|Description0=271|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=126|Sim Parameters0=100|Item ID0=89|Value0=75|Package Name0=97|Mfg Name0=76|Mfg PN0=126
+[Table24]
+SchemaName=
+TableName=Capacitor - 1210 - AEC-Q200
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table25]
+SchemaName=
+TableName=Capacitor - 1808
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=118|Comment0=72|Description0=270|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=123|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=123
+[Table26]
+SchemaName=
+TableName=Capacitor - 1812
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=269|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=126|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=126
+[Table27]
+SchemaName=
+TableName=Capacitor - 1812 - AEC-Q200
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=322|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=120|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=120
+[Table28]
+SchemaName=
+TableName=Capacitor - 2220
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table29]
+SchemaName=
+TableName=Capacitor - 2220 - AEC-Q200
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=322|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=120|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=120
+[Table30]
+SchemaName=
+TableName=Capacitor - Niobium - Size C
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Item ID0=59|Comment0=72|Value0=52|Package Name0=97|Description0=319|Mfg Name0=76|Mfg PN0=120|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=120|Sim Parameters0=100
+[Table31]
+SchemaName=
+TableName=Resistor - 01005
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=447|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=106
+[Table32]
+SchemaName=
+TableName=Resistor - 0201
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=444|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=103
+[Table33]
+SchemaName=
+TableName=Resistor - 0402
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=441|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=100
+[Table34]
+SchemaName=
+TableName=Resistor - 0603
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table35]
+SchemaName=
+TableName=Resistor - 0805
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=453|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=103
+[Table36]
+SchemaName=
+TableName=Resistor - 1206
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=453|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=103
+[Table37]
+SchemaName=
+TableName=Resistor - 1210
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=447|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=102
+[Table38]
+SchemaName=
+TableName=Resistor - 2010
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=453|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=102
+[Table39]
+SchemaName=
+TableName=Resistor - 2512
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=438|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=101
+[FieldMap1]
+Options=FieldName=Capacitor - 008004.Component Name|TableNameOnly=Capacitor - 008004|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Capacitor - 008004.Comment|TableNameOnly=Capacitor - 008004|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap3]
+Options=FieldName=Capacitor - 008004.Description|TableNameOnly=Capacitor - 008004|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Capacitor - 008004.Library Ref|TableNameOnly=Capacitor - 008004|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Capacitor - 008004.Library Path|TableNameOnly=Capacitor - 008004|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Capacitor - 008004.Footprint Ref|TableNameOnly=Capacitor - 008004|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Capacitor - 008004.Footprint Path|TableNameOnly=Capacitor - 008004|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Capacitor - 008004.Sim Description|TableNameOnly=Capacitor - 008004|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Capacitor - 008004.Sim Kind|TableNameOnly=Capacitor - 008004|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Capacitor - 008004.Sim SubKind|TableNameOnly=Capacitor - 008004|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Capacitor - 008004.Sim Spice Prefix|TableNameOnly=Capacitor - 008004|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Capacitor - 008004.Sim Netlist|TableNameOnly=Capacitor - 008004|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Capacitor - 008004.Sim Port Map|TableNameOnly=Capacitor - 008004|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Capacitor - 008004.Sim File|TableNameOnly=Capacitor - 008004|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Capacitor - 008004.Sim Model Name|TableNameOnly=Capacitor - 008004|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Capacitor - 008004.Sim Parameters|TableNameOnly=Capacitor - 008004|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Capacitor - 008004.Item ID|TableNameOnly=Capacitor - 008004|FieldNameOnly=Item ID|FieldType=1|ParameterName=Item ID|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap18]
+Options=FieldName=Capacitor - 008004.Value|TableNameOnly=Capacitor - 008004|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap19]
+Options=FieldName=Capacitor - 008004.Package Name|TableNameOnly=Capacitor - 008004|FieldNameOnly=Package Name|FieldType=1|ParameterName=Package Name|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap20]
+Options=FieldName=Capacitor - 008004.Mfg Name|TableNameOnly=Capacitor - 008004|FieldNameOnly=Mfg Name|FieldType=1|ParameterName=Mfg Name|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap21]
+Options=FieldName=Capacitor - 008004.Mfg PN|TableNameOnly=Capacitor - 008004|FieldNameOnly=Mfg PN|FieldType=1|ParameterName=Mfg PN|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap22]
+Options=FieldName=Capacitor - 01005.Component Name|TableNameOnly=Capacitor - 01005|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Capacitor - 01005.Comment|TableNameOnly=Capacitor - 01005|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Capacitor - 01005.Description|TableNameOnly=Capacitor - 01005|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Capacitor - 01005.Library Ref|TableNameOnly=Capacitor - 01005|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Capacitor - 01005.Library Path|TableNameOnly=Capacitor - 01005|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Capacitor - 01005.Footprint Ref|TableNameOnly=Capacitor - 01005|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Capacitor - 01005.Footprint Path|TableNameOnly=Capacitor - 01005|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Capacitor - 01005.Sim Description|TableNameOnly=Capacitor - 01005|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Capacitor - 01005.Sim Kind|TableNameOnly=Capacitor - 01005|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Capacitor - 01005.Sim SubKind|TableNameOnly=Capacitor - 01005|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Capacitor - 01005.Sim Spice Prefix|TableNameOnly=Capacitor - 01005|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Capacitor - 01005.Sim Netlist|TableNameOnly=Capacitor - 01005|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Capacitor - 01005.Sim Port Map|TableNameOnly=Capacitor - 01005|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Capacitor - 01005.Sim File|TableNameOnly=Capacitor - 01005|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Capacitor - 01005.Sim Model Name|TableNameOnly=Capacitor - 01005|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Capacitor - 01005.Sim Parameters|TableNameOnly=Capacitor - 01005|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Component Name|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Comment|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Description|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Library Ref|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Library Path|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Footprint Ref|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Footprint Path|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Sim Description|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Sim Kind|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Sim SubKind|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Sim Spice Prefix|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Sim Netlist|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Sim Port Map|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Sim File|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Sim Model Name|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Capacitor - 01005 - Hi-Q.Sim Parameters|TableNameOnly=Capacitor - 01005 - Hi-Q|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Capacitor - 015008.Component Name|TableNameOnly=Capacitor - 015008|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Capacitor - 015008.Comment|TableNameOnly=Capacitor - 015008|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Capacitor - 015008.Description|TableNameOnly=Capacitor - 015008|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Capacitor - 015008.Library Ref|TableNameOnly=Capacitor - 015008|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Capacitor - 015008.Library Path|TableNameOnly=Capacitor - 015008|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=Capacitor - 015008.Footprint Ref|TableNameOnly=Capacitor - 015008|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=Capacitor - 015008.Footprint Path|TableNameOnly=Capacitor - 015008|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=Capacitor - 015008.Sim Description|TableNameOnly=Capacitor - 015008|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=Capacitor - 015008.Sim Kind|TableNameOnly=Capacitor - 015008|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=Capacitor - 015008.Sim SubKind|TableNameOnly=Capacitor - 015008|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=Capacitor - 015008.Sim Spice Prefix|TableNameOnly=Capacitor - 015008|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=Capacitor - 015008.Sim Netlist|TableNameOnly=Capacitor - 015008|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=Capacitor - 015008.Sim Port Map|TableNameOnly=Capacitor - 015008|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=Capacitor - 015008.Sim File|TableNameOnly=Capacitor - 015008|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=Capacitor - 015008.Sim Model Name|TableNameOnly=Capacitor - 015008|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=Capacitor - 015008.Sim Parameters|TableNameOnly=Capacitor - 015008|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=Capacitor - 0201.Component Name|TableNameOnly=Capacitor - 0201|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=Capacitor - 0201.Comment|TableNameOnly=Capacitor - 0201|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=Capacitor - 0201.Description|TableNameOnly=Capacitor - 0201|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=Capacitor - 0201.Library Ref|TableNameOnly=Capacitor - 0201|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=Capacitor - 0201.Library Path|TableNameOnly=Capacitor - 0201|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=Capacitor - 0201.Footprint Ref|TableNameOnly=Capacitor - 0201|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=Capacitor - 0201.Footprint Path|TableNameOnly=Capacitor - 0201|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=Capacitor - 0201.Sim Description|TableNameOnly=Capacitor - 0201|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=Capacitor - 0201.Sim Kind|TableNameOnly=Capacitor - 0201|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=Capacitor - 0201.Sim SubKind|TableNameOnly=Capacitor - 0201|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=Capacitor - 0201.Sim Spice Prefix|TableNameOnly=Capacitor - 0201|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=Capacitor - 0201.Sim Netlist|TableNameOnly=Capacitor - 0201|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=Capacitor - 0201.Sim Port Map|TableNameOnly=Capacitor - 0201|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=Capacitor - 0201.Sim File|TableNameOnly=Capacitor - 0201|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=Capacitor - 0201.Sim Model Name|TableNameOnly=Capacitor - 0201|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=Capacitor - 0201.Sim Parameters|TableNameOnly=Capacitor - 0201|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Component Name|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Comment|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Description|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Library Ref|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Library Path|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Footprint Ref|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Footprint Path|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Sim Description|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Sim Kind|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Sim SubKind|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Sim Spice Prefix|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Sim Netlist|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Sim Port Map|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Sim File|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Sim Model Name|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=Capacitor - 0201 - AEC-Q200.Sim Parameters|TableNameOnly=Capacitor - 0201 - AEC-Q200|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Component Name|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap103]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Comment|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap104]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Description|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap105]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Library Ref|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap106]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Library Path|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap107]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Footprint Ref|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap108]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Footprint Path|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap109]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Sim Description|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap110]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Sim Kind|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap111]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Sim SubKind|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap112]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Sim Spice Prefix|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap113]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Sim Netlist|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap114]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Sim Port Map|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap115]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Sim File|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap116]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Sim Model Name|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap117]
+Options=FieldName=Capacitor - 0201 - Hi-Q.Sim Parameters|TableNameOnly=Capacitor - 0201 - Hi-Q|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap118]
+Options=FieldName=Capacitor - 0402.Component Name|TableNameOnly=Capacitor - 0402|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap119]
+Options=FieldName=Capacitor - 0402.Comment|TableNameOnly=Capacitor - 0402|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap120]
+Options=FieldName=Capacitor - 0402.Description|TableNameOnly=Capacitor - 0402|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap121]
+Options=FieldName=Capacitor - 0402.Library Ref|TableNameOnly=Capacitor - 0402|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap122]
+Options=FieldName=Capacitor - 0402.Library Path|TableNameOnly=Capacitor - 0402|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap123]
+Options=FieldName=Capacitor - 0402.Footprint Ref|TableNameOnly=Capacitor - 0402|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap124]
+Options=FieldName=Capacitor - 0402.Footprint Path|TableNameOnly=Capacitor - 0402|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap125]
+Options=FieldName=Capacitor - 0402.Sim Description|TableNameOnly=Capacitor - 0402|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap126]
+Options=FieldName=Capacitor - 0402.Sim Kind|TableNameOnly=Capacitor - 0402|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap127]
+Options=FieldName=Capacitor - 0402.Sim SubKind|TableNameOnly=Capacitor - 0402|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap128]
+Options=FieldName=Capacitor - 0402.Sim Spice Prefix|TableNameOnly=Capacitor - 0402|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap129]
+Options=FieldName=Capacitor - 0402.Sim Netlist|TableNameOnly=Capacitor - 0402|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap130]
+Options=FieldName=Capacitor - 0402.Sim Port Map|TableNameOnly=Capacitor - 0402|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap131]
+Options=FieldName=Capacitor - 0402.Sim File|TableNameOnly=Capacitor - 0402|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap132]
+Options=FieldName=Capacitor - 0402.Sim Model Name|TableNameOnly=Capacitor - 0402|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap133]
+Options=FieldName=Capacitor - 0402.Sim Parameters|TableNameOnly=Capacitor - 0402|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap134]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Component Name|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap135]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Comment|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap136]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Description|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap137]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Library Ref|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap138]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Library Path|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap139]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Footprint Ref|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap140]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Footprint Path|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap141]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Sim Description|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap142]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Sim Kind|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap143]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Sim SubKind|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap144]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Sim Spice Prefix|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap145]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Sim Netlist|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap146]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Sim Port Map|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap147]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Sim File|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap148]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Sim Model Name|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap149]
+Options=FieldName=Capacitor - 0402 - AEC-Q200.Sim Parameters|TableNameOnly=Capacitor - 0402 - AEC-Q200|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap150]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Component Name|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap151]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Comment|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap152]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Description|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap153]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Library Ref|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap154]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Library Path|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap155]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Footprint Ref|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap156]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Footprint Path|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap157]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Sim Description|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap158]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Sim Kind|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap159]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Sim SubKind|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap160]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Sim Spice Prefix|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap161]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Sim Netlist|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap162]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Sim Port Map|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap163]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Sim File|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap164]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Sim Model Name|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap165]
+Options=FieldName=Capacitor - 0402 - AEC-Q200/Hi-Q.Sim Parameters|TableNameOnly=Capacitor - 0402 - AEC-Q200/Hi-Q|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap166]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Component Name|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap167]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Comment|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap168]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Description|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap169]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Library Ref|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap170]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Library Path|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap171]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Footprint Ref|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap172]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Footprint Path|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap173]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Sim Description|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap174]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Sim Kind|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap175]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Sim SubKind|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap176]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Sim Spice Prefix|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap177]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Sim Netlist|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap178]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Sim Port Map|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap179]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Sim File|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap180]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Sim Model Name|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap181]
+Options=FieldName=Capacitor - 0402 - Hi-Q.Sim Parameters|TableNameOnly=Capacitor - 0402 - Hi-Q|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap182]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Component Name|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap183]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Comment|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap184]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Description|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap185]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Library Ref|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap186]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Library Path|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap187]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Footprint Ref|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap188]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Footprint Path|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap189]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Sim Description|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap190]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Sim Kind|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap191]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Sim SubKind|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap192]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Sim Spice Prefix|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap193]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Sim Netlist|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap194]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Sim Port Map|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap195]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Sim File|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap196]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Sim Model Name|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap197]
+Options=FieldName=Capacitor - 0402 - Hi-Q/Hi-Power.Sim Parameters|TableNameOnly=Capacitor - 0402 - Hi-Q/Hi-Power|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap198]
+Options=FieldName=Capacitor - 0603.Component Name|TableNameOnly=Capacitor - 0603|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap199]
+Options=FieldName=Capacitor - 0603.Comment|TableNameOnly=Capacitor - 0603|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap200]
+Options=FieldName=Capacitor - 0603.Description|TableNameOnly=Capacitor - 0603|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap201]
+Options=FieldName=Capacitor - 0603.Library Ref|TableNameOnly=Capacitor - 0603|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap202]
+Options=FieldName=Capacitor - 0603.Library Path|TableNameOnly=Capacitor - 0603|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap203]
+Options=FieldName=Capacitor - 0603.Footprint Ref|TableNameOnly=Capacitor - 0603|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap204]
+Options=FieldName=Capacitor - 0603.Footprint Path|TableNameOnly=Capacitor - 0603|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap205]
+Options=FieldName=Capacitor - 0603.Sim Description|TableNameOnly=Capacitor - 0603|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap206]
+Options=FieldName=Capacitor - 0603.Sim Kind|TableNameOnly=Capacitor - 0603|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap207]
+Options=FieldName=Capacitor - 0603.Sim SubKind|TableNameOnly=Capacitor - 0603|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap208]
+Options=FieldName=Capacitor - 0603.Sim Spice Prefix|TableNameOnly=Capacitor - 0603|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap209]
+Options=FieldName=Capacitor - 0603.Sim Netlist|TableNameOnly=Capacitor - 0603|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap210]
+Options=FieldName=Capacitor - 0603.Sim Port Map|TableNameOnly=Capacitor - 0603|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap211]
+Options=FieldName=Capacitor - 0603.Sim File|TableNameOnly=Capacitor - 0603|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap212]
+Options=FieldName=Capacitor - 0603.Sim Model Name|TableNameOnly=Capacitor - 0603|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap213]
+Options=FieldName=Capacitor - 0603.Sim Parameters|TableNameOnly=Capacitor - 0603|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap214]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Component Name|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap215]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Comment|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap216]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Description|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap217]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Library Ref|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap218]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Library Path|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap219]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Footprint Ref|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap220]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Footprint Path|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap221]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Sim Description|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap222]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Sim Kind|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap223]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Sim SubKind|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap224]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Sim Spice Prefix|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap225]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Sim Netlist|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap226]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Sim Port Map|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap227]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Sim File|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap228]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Sim Model Name|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap229]
+Options=FieldName=Capacitor - 0603 - AEC-Q200.Sim Parameters|TableNameOnly=Capacitor - 0603 - AEC-Q200|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap230]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Component Name|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap231]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Comment|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap232]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Description|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap233]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Library Ref|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap234]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Library Path|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap235]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Footprint Ref|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap236]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Footprint Path|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap237]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Sim Description|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap238]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Sim Kind|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap239]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Sim SubKind|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap240]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Sim Spice Prefix|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap241]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Sim Netlist|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap242]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Sim Port Map|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap243]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Sim File|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap244]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Sim Model Name|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap245]
+Options=FieldName=Capacitor - 0603 - Hi-Q/Hi-Power.Sim Parameters|TableNameOnly=Capacitor - 0603 - Hi-Q/Hi-Power|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap246]
+Options=FieldName=Capacitor - 0704.Component Name|TableNameOnly=Capacitor - 0704|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap247]
+Options=FieldName=Capacitor - 0704.Comment|TableNameOnly=Capacitor - 0704|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap248]
+Options=FieldName=Capacitor - 0704.Description|TableNameOnly=Capacitor - 0704|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap249]
+Options=FieldName=Capacitor - 0704.Library Ref|TableNameOnly=Capacitor - 0704|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap250]
+Options=FieldName=Capacitor - 0704.Library Path|TableNameOnly=Capacitor - 0704|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap251]
+Options=FieldName=Capacitor - 0704.Footprint Ref|TableNameOnly=Capacitor - 0704|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap252]
+Options=FieldName=Capacitor - 0704.Footprint Path|TableNameOnly=Capacitor - 0704|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap253]
+Options=FieldName=Capacitor - 0704.Sim Description|TableNameOnly=Capacitor - 0704|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap254]
+Options=FieldName=Capacitor - 0704.Sim Kind|TableNameOnly=Capacitor - 0704|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap255]
+Options=FieldName=Capacitor - 0704.Sim SubKind|TableNameOnly=Capacitor - 0704|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap256]
+Options=FieldName=Capacitor - 0704.Sim Spice Prefix|TableNameOnly=Capacitor - 0704|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap257]
+Options=FieldName=Capacitor - 0704.Sim Netlist|TableNameOnly=Capacitor - 0704|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap258]
+Options=FieldName=Capacitor - 0704.Sim Port Map|TableNameOnly=Capacitor - 0704|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap259]
+Options=FieldName=Capacitor - 0704.Sim File|TableNameOnly=Capacitor - 0704|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap260]
+Options=FieldName=Capacitor - 0704.Sim Model Name|TableNameOnly=Capacitor - 0704|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap261]
+Options=FieldName=Capacitor - 0704.Sim Parameters|TableNameOnly=Capacitor - 0704|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap262]
+Options=FieldName=Capacitor - 0805.Component Name|TableNameOnly=Capacitor - 0805|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap263]
+Options=FieldName=Capacitor - 0805.Comment|TableNameOnly=Capacitor - 0805|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap264]
+Options=FieldName=Capacitor - 0805.Description|TableNameOnly=Capacitor - 0805|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap265]
+Options=FieldName=Capacitor - 0805.Library Ref|TableNameOnly=Capacitor - 0805|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap266]
+Options=FieldName=Capacitor - 0805.Library Path|TableNameOnly=Capacitor - 0805|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap267]
+Options=FieldName=Capacitor - 0805.Footprint Ref|TableNameOnly=Capacitor - 0805|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap268]
+Options=FieldName=Capacitor - 0805.Footprint Path|TableNameOnly=Capacitor - 0805|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap269]
+Options=FieldName=Capacitor - 0805.Sim Description|TableNameOnly=Capacitor - 0805|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap270]
+Options=FieldName=Capacitor - 0805.Sim Kind|TableNameOnly=Capacitor - 0805|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap271]
+Options=FieldName=Capacitor - 0805.Sim SubKind|TableNameOnly=Capacitor - 0805|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap272]
+Options=FieldName=Capacitor - 0805.Sim Spice Prefix|TableNameOnly=Capacitor - 0805|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap273]
+Options=FieldName=Capacitor - 0805.Sim Netlist|TableNameOnly=Capacitor - 0805|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap274]
+Options=FieldName=Capacitor - 0805.Sim Port Map|TableNameOnly=Capacitor - 0805|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap275]
+Options=FieldName=Capacitor - 0805.Sim File|TableNameOnly=Capacitor - 0805|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap276]
+Options=FieldName=Capacitor - 0805.Sim Model Name|TableNameOnly=Capacitor - 0805|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap277]
+Options=FieldName=Capacitor - 0805.Sim Parameters|TableNameOnly=Capacitor - 0805|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap278]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Component Name|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap279]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Comment|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap280]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Description|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap281]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Library Ref|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap282]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Library Path|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap283]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Footprint Ref|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap284]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Footprint Path|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap285]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Sim Description|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap286]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Sim Kind|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap287]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Sim SubKind|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap288]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Sim Spice Prefix|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap289]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Sim Netlist|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap290]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Sim Port Map|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap291]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Sim File|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap292]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Sim Model Name|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap293]
+Options=FieldName=Capacitor - 0805 - AEC-Q200.Sim Parameters|TableNameOnly=Capacitor - 0805 - AEC-Q200|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap294]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Component Name|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap295]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Comment|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap296]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Description|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap297]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Library Ref|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap298]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Library Path|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap299]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Footprint Ref|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap300]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Footprint Path|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap301]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Sim Description|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap302]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Sim Kind|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap303]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Sim SubKind|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap304]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Sim Spice Prefix|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap305]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Sim Netlist|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap306]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Sim Port Map|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap307]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Sim File|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap308]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Sim Model Name|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap309]
+Options=FieldName=Capacitor - 0805 - Hi-Q/Hi-Power.Sim Parameters|TableNameOnly=Capacitor - 0805 - Hi-Q/Hi-Power|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap310]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Component Name|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap311]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Comment|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap312]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Description|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap313]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Library Ref|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap314]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Library Path|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap315]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Footprint Ref|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap316]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Footprint Path|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap317]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Sim Description|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap318]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Sim Kind|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap319]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Sim SubKind|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap320]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Sim Spice Prefix|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap321]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Sim Netlist|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap322]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Sim Port Map|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap323]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Sim File|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap324]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Sim Model Name|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap325]
+Options=FieldName=Capacitor - 1111 - Hi-Q/Hi-Power.Sim Parameters|TableNameOnly=Capacitor - 1111 - Hi-Q/Hi-Power|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap326]
+Options=FieldName=Capacitor - 1206.Component Name|TableNameOnly=Capacitor - 1206|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap327]
+Options=FieldName=Capacitor - 1206.Comment|TableNameOnly=Capacitor - 1206|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap328]
+Options=FieldName=Capacitor - 1206.Description|TableNameOnly=Capacitor - 1206|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap329]
+Options=FieldName=Capacitor - 1206.Library Ref|TableNameOnly=Capacitor - 1206|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap330]
+Options=FieldName=Capacitor - 1206.Library Path|TableNameOnly=Capacitor - 1206|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap331]
+Options=FieldName=Capacitor - 1206.Footprint Ref|TableNameOnly=Capacitor - 1206|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap332]
+Options=FieldName=Capacitor - 1206.Footprint Path|TableNameOnly=Capacitor - 1206|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap333]
+Options=FieldName=Capacitor - 1206.Sim Description|TableNameOnly=Capacitor - 1206|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap334]
+Options=FieldName=Capacitor - 1206.Sim Kind|TableNameOnly=Capacitor - 1206|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap335]
+Options=FieldName=Capacitor - 1206.Sim SubKind|TableNameOnly=Capacitor - 1206|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap336]
+Options=FieldName=Capacitor - 1206.Sim Spice Prefix|TableNameOnly=Capacitor - 1206|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap337]
+Options=FieldName=Capacitor - 1206.Sim Netlist|TableNameOnly=Capacitor - 1206|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap338]
+Options=FieldName=Capacitor - 1206.Sim Port Map|TableNameOnly=Capacitor - 1206|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap339]
+Options=FieldName=Capacitor - 1206.Sim File|TableNameOnly=Capacitor - 1206|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap340]
+Options=FieldName=Capacitor - 1206.Sim Model Name|TableNameOnly=Capacitor - 1206|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap341]
+Options=FieldName=Capacitor - 1206.Sim Parameters|TableNameOnly=Capacitor - 1206|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap342]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Component Name|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap343]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Comment|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap344]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Description|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap345]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Library Ref|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap346]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Library Path|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap347]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Footprint Ref|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap348]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Footprint Path|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap349]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Sim Description|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap350]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Sim Kind|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap351]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Sim SubKind|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap352]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Sim Spice Prefix|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap353]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Sim Netlist|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap354]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Sim Port Map|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap355]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Sim File|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap356]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Sim Model Name|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap357]
+Options=FieldName=Capacitor - 1206 - AEC-Q200.Sim Parameters|TableNameOnly=Capacitor - 1206 - AEC-Q200|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap358]
+Options=FieldName=Capacitor - 1210.Component Name|TableNameOnly=Capacitor - 1210|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap359]
+Options=FieldName=Capacitor - 1210.Comment|TableNameOnly=Capacitor - 1210|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap360]
+Options=FieldName=Capacitor - 1210.Description|TableNameOnly=Capacitor - 1210|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap361]
+Options=FieldName=Capacitor - 1210.Library Ref|TableNameOnly=Capacitor - 1210|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap362]
+Options=FieldName=Capacitor - 1210.Library Path|TableNameOnly=Capacitor - 1210|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap363]
+Options=FieldName=Capacitor - 1210.Footprint Ref|TableNameOnly=Capacitor - 1210|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap364]
+Options=FieldName=Capacitor - 1210.Footprint Path|TableNameOnly=Capacitor - 1210|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap365]
+Options=FieldName=Capacitor - 1210.Sim Description|TableNameOnly=Capacitor - 1210|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap366]
+Options=FieldName=Capacitor - 1210.Sim Kind|TableNameOnly=Capacitor - 1210|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap367]
+Options=FieldName=Capacitor - 1210.Sim SubKind|TableNameOnly=Capacitor - 1210|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap368]
+Options=FieldName=Capacitor - 1210.Sim Spice Prefix|TableNameOnly=Capacitor - 1210|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap369]
+Options=FieldName=Capacitor - 1210.Sim Netlist|TableNameOnly=Capacitor - 1210|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap370]
+Options=FieldName=Capacitor - 1210.Sim Port Map|TableNameOnly=Capacitor - 1210|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap371]
+Options=FieldName=Capacitor - 1210.Sim File|TableNameOnly=Capacitor - 1210|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap372]
+Options=FieldName=Capacitor - 1210.Sim Model Name|TableNameOnly=Capacitor - 1210|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap373]
+Options=FieldName=Capacitor - 1210.Sim Parameters|TableNameOnly=Capacitor - 1210|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap374]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Component Name|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap375]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Comment|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap376]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Description|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap377]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Library Ref|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap378]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Library Path|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap379]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Footprint Ref|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap380]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Footprint Path|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap381]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Sim Description|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap382]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Sim Kind|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap383]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Sim SubKind|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap384]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Sim Spice Prefix|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap385]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Sim Netlist|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap386]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Sim Port Map|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap387]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Sim File|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap388]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Sim Model Name|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap389]
+Options=FieldName=Capacitor - 1210 - AEC-Q200.Sim Parameters|TableNameOnly=Capacitor - 1210 - AEC-Q200|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap390]
+Options=FieldName=Capacitor - 1808.Component Name|TableNameOnly=Capacitor - 1808|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap391]
+Options=FieldName=Capacitor - 1808.Comment|TableNameOnly=Capacitor - 1808|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap392]
+Options=FieldName=Capacitor - 1808.Description|TableNameOnly=Capacitor - 1808|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap393]
+Options=FieldName=Capacitor - 1808.Library Ref|TableNameOnly=Capacitor - 1808|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap394]
+Options=FieldName=Capacitor - 1808.Library Path|TableNameOnly=Capacitor - 1808|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap395]
+Options=FieldName=Capacitor - 1808.Footprint Ref|TableNameOnly=Capacitor - 1808|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap396]
+Options=FieldName=Capacitor - 1808.Footprint Path|TableNameOnly=Capacitor - 1808|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap397]
+Options=FieldName=Capacitor - 1808.Sim Description|TableNameOnly=Capacitor - 1808|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap398]
+Options=FieldName=Capacitor - 1808.Sim Kind|TableNameOnly=Capacitor - 1808|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap399]
+Options=FieldName=Capacitor - 1808.Sim SubKind|TableNameOnly=Capacitor - 1808|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap400]
+Options=FieldName=Capacitor - 1808.Sim Spice Prefix|TableNameOnly=Capacitor - 1808|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap401]
+Options=FieldName=Capacitor - 1808.Sim Netlist|TableNameOnly=Capacitor - 1808|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap402]
+Options=FieldName=Capacitor - 1808.Sim Port Map|TableNameOnly=Capacitor - 1808|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap403]
+Options=FieldName=Capacitor - 1808.Sim File|TableNameOnly=Capacitor - 1808|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap404]
+Options=FieldName=Capacitor - 1808.Sim Model Name|TableNameOnly=Capacitor - 1808|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap405]
+Options=FieldName=Capacitor - 1808.Sim Parameters|TableNameOnly=Capacitor - 1808|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap406]
+Options=FieldName=Capacitor - 1812.Component Name|TableNameOnly=Capacitor - 1812|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap407]
+Options=FieldName=Capacitor - 1812.Comment|TableNameOnly=Capacitor - 1812|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap408]
+Options=FieldName=Capacitor - 1812.Description|TableNameOnly=Capacitor - 1812|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap409]
+Options=FieldName=Capacitor - 1812.Library Ref|TableNameOnly=Capacitor - 1812|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap410]
+Options=FieldName=Capacitor - 1812.Library Path|TableNameOnly=Capacitor - 1812|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap411]
+Options=FieldName=Capacitor - 1812.Footprint Ref|TableNameOnly=Capacitor - 1812|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap412]
+Options=FieldName=Capacitor - 1812.Footprint Path|TableNameOnly=Capacitor - 1812|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap413]
+Options=FieldName=Capacitor - 1812.Sim Description|TableNameOnly=Capacitor - 1812|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap414]
+Options=FieldName=Capacitor - 1812.Sim Kind|TableNameOnly=Capacitor - 1812|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap415]
+Options=FieldName=Capacitor - 1812.Sim SubKind|TableNameOnly=Capacitor - 1812|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap416]
+Options=FieldName=Capacitor - 1812.Sim Spice Prefix|TableNameOnly=Capacitor - 1812|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap417]
+Options=FieldName=Capacitor - 1812.Sim Netlist|TableNameOnly=Capacitor - 1812|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap418]
+Options=FieldName=Capacitor - 1812.Sim Port Map|TableNameOnly=Capacitor - 1812|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap419]
+Options=FieldName=Capacitor - 1812.Sim File|TableNameOnly=Capacitor - 1812|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap420]
+Options=FieldName=Capacitor - 1812.Sim Model Name|TableNameOnly=Capacitor - 1812|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap421]
+Options=FieldName=Capacitor - 1812.Sim Parameters|TableNameOnly=Capacitor - 1812|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap422]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Component Name|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap423]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Comment|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap424]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Description|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap425]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Library Ref|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap426]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Library Path|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap427]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Footprint Ref|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap428]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Footprint Path|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap429]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Sim Description|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap430]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Sim Kind|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap431]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Sim SubKind|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap432]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Sim Spice Prefix|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap433]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Sim Netlist|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap434]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Sim Port Map|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap435]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Sim File|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap436]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Sim Model Name|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap437]
+Options=FieldName=Capacitor - 1812 - AEC-Q200.Sim Parameters|TableNameOnly=Capacitor - 1812 - AEC-Q200|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap438]
+Options=FieldName=Capacitor - 2220.Component Name|TableNameOnly=Capacitor - 2220|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap439]
+Options=FieldName=Capacitor - 2220.Comment|TableNameOnly=Capacitor - 2220|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap440]
+Options=FieldName=Capacitor - 2220.Description|TableNameOnly=Capacitor - 2220|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap441]
+Options=FieldName=Capacitor - 2220.Library Ref|TableNameOnly=Capacitor - 2220|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap442]
+Options=FieldName=Capacitor - 2220.Library Path|TableNameOnly=Capacitor - 2220|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap443]
+Options=FieldName=Capacitor - 2220.Footprint Ref|TableNameOnly=Capacitor - 2220|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap444]
+Options=FieldName=Capacitor - 2220.Footprint Path|TableNameOnly=Capacitor - 2220|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap445]
+Options=FieldName=Capacitor - 2220.Sim Description|TableNameOnly=Capacitor - 2220|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap446]
+Options=FieldName=Capacitor - 2220.Sim Kind|TableNameOnly=Capacitor - 2220|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap447]
+Options=FieldName=Capacitor - 2220.Sim SubKind|TableNameOnly=Capacitor - 2220|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap448]
+Options=FieldName=Capacitor - 2220.Sim Spice Prefix|TableNameOnly=Capacitor - 2220|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap449]
+Options=FieldName=Capacitor - 2220.Sim Netlist|TableNameOnly=Capacitor - 2220|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap450]
+Options=FieldName=Capacitor - 2220.Sim Port Map|TableNameOnly=Capacitor - 2220|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap451]
+Options=FieldName=Capacitor - 2220.Sim File|TableNameOnly=Capacitor - 2220|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap452]
+Options=FieldName=Capacitor - 2220.Sim Model Name|TableNameOnly=Capacitor - 2220|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap453]
+Options=FieldName=Capacitor - 2220.Sim Parameters|TableNameOnly=Capacitor - 2220|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap454]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Component Name|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap455]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Comment|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap456]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Description|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap457]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Library Ref|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap458]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Library Path|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap459]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Footprint Ref|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap460]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Footprint Path|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap461]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Sim Description|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap462]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Sim Kind|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap463]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Sim SubKind|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap464]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Sim Spice Prefix|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap465]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Sim Netlist|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap466]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Sim Port Map|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap467]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Sim File|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap468]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Sim Model Name|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap469]
+Options=FieldName=Capacitor - 2220 - AEC-Q200.Sim Parameters|TableNameOnly=Capacitor - 2220 - AEC-Q200|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap470]
+Options=FieldName=Capacitor - Niobium - Size C.Component Name|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap471]
+Options=FieldName=Capacitor - Niobium - Size C.Comment|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap472]
+Options=FieldName=Capacitor - Niobium - Size C.Description|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap473]
+Options=FieldName=Capacitor - Niobium - Size C.Library Ref|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap474]
+Options=FieldName=Capacitor - Niobium - Size C.Library Path|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap475]
+Options=FieldName=Capacitor - Niobium - Size C.Footprint Ref|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap476]
+Options=FieldName=Capacitor - Niobium - Size C.Footprint Path|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap477]
+Options=FieldName=Capacitor - Niobium - Size C.Sim Description|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap478]
+Options=FieldName=Capacitor - Niobium - Size C.Sim Kind|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap479]
+Options=FieldName=Capacitor - Niobium - Size C.Sim SubKind|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap480]
+Options=FieldName=Capacitor - Niobium - Size C.Sim Spice Prefix|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap481]
+Options=FieldName=Capacitor - Niobium - Size C.Sim Netlist|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap482]
+Options=FieldName=Capacitor - Niobium - Size C.Sim Port Map|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap483]
+Options=FieldName=Capacitor - Niobium - Size C.Sim File|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap484]
+Options=FieldName=Capacitor - Niobium - Size C.Sim Model Name|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap485]
+Options=FieldName=Capacitor - Niobium - Size C.Sim Parameters|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap486]
+Options=FieldName=Resistor - 01005.Component Name|TableNameOnly=Resistor - 01005|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap487]
+Options=FieldName=Resistor - 01005.Comment|TableNameOnly=Resistor - 01005|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap488]
+Options=FieldName=Resistor - 01005.Description|TableNameOnly=Resistor - 01005|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap489]
+Options=FieldName=Resistor - 01005.Library Ref|TableNameOnly=Resistor - 01005|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap490]
+Options=FieldName=Resistor - 01005.Library Path|TableNameOnly=Resistor - 01005|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap491]
+Options=FieldName=Resistor - 01005.Footprint Ref|TableNameOnly=Resistor - 01005|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap492]
+Options=FieldName=Resistor - 01005.Footprint Path|TableNameOnly=Resistor - 01005|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap493]
+Options=FieldName=Resistor - 01005.Sim Description|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap494]
+Options=FieldName=Resistor - 01005.Sim Kind|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap495]
+Options=FieldName=Resistor - 01005.Sim SubKind|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap496]
+Options=FieldName=Resistor - 01005.Sim Spice Prefix|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap497]
+Options=FieldName=Resistor - 01005.Sim Netlist|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap498]
+Options=FieldName=Resistor - 01005.Sim Port Map|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap499]
+Options=FieldName=Resistor - 01005.Sim File|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap500]
+Options=FieldName=Resistor - 01005.Sim Model Name|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap501]
+Options=FieldName=Resistor - 01005.Sim Parameters|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap502]
+Options=FieldName=Resistor - 0201.Component Name|TableNameOnly=Resistor - 0201|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap503]
+Options=FieldName=Resistor - 0201.Comment|TableNameOnly=Resistor - 0201|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap504]
+Options=FieldName=Resistor - 0201.Description|TableNameOnly=Resistor - 0201|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap505]
+Options=FieldName=Resistor - 0201.Library Ref|TableNameOnly=Resistor - 0201|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap506]
+Options=FieldName=Resistor - 0201.Library Path|TableNameOnly=Resistor - 0201|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap507]
+Options=FieldName=Resistor - 0201.Footprint Ref|TableNameOnly=Resistor - 0201|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap508]
+Options=FieldName=Resistor - 0201.Footprint Path|TableNameOnly=Resistor - 0201|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap509]
+Options=FieldName=Resistor - 0201.Sim Description|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap510]
+Options=FieldName=Resistor - 0201.Sim Kind|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap511]
+Options=FieldName=Resistor - 0201.Sim SubKind|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap512]
+Options=FieldName=Resistor - 0201.Sim Spice Prefix|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap513]
+Options=FieldName=Resistor - 0201.Sim Netlist|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap514]
+Options=FieldName=Resistor - 0201.Sim Port Map|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap515]
+Options=FieldName=Resistor - 0201.Sim File|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap516]
+Options=FieldName=Resistor - 0201.Sim Model Name|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap517]
+Options=FieldName=Resistor - 0201.Sim Parameters|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap518]
+Options=FieldName=Resistor - 0402.Component Name|TableNameOnly=Resistor - 0402|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap519]
+Options=FieldName=Resistor - 0402.Comment|TableNameOnly=Resistor - 0402|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap520]
+Options=FieldName=Resistor - 0402.Description|TableNameOnly=Resistor - 0402|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap521]
+Options=FieldName=Resistor - 0402.Library Ref|TableNameOnly=Resistor - 0402|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap522]
+Options=FieldName=Resistor - 0402.Library Path|TableNameOnly=Resistor - 0402|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap523]
+Options=FieldName=Resistor - 0402.Footprint Ref|TableNameOnly=Resistor - 0402|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap524]
+Options=FieldName=Resistor - 0402.Footprint Path|TableNameOnly=Resistor - 0402|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap525]
+Options=FieldName=Resistor - 0402.Sim Description|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap526]
+Options=FieldName=Resistor - 0402.Sim Kind|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap527]
+Options=FieldName=Resistor - 0402.Sim SubKind|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap528]
+Options=FieldName=Resistor - 0402.Sim Spice Prefix|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap529]
+Options=FieldName=Resistor - 0402.Sim Netlist|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap530]
+Options=FieldName=Resistor - 0402.Sim Port Map|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap531]
+Options=FieldName=Resistor - 0402.Sim File|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap532]
+Options=FieldName=Resistor - 0402.Sim Model Name|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap533]
+Options=FieldName=Resistor - 0402.Sim Parameters|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap534]
+Options=FieldName=Resistor - 0603.Component Name|TableNameOnly=Resistor - 0603|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap535]
+Options=FieldName=Resistor - 0603.Comment|TableNameOnly=Resistor - 0603|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap536]
+Options=FieldName=Resistor - 0603.Description|TableNameOnly=Resistor - 0603|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap537]
+Options=FieldName=Resistor - 0603.Library Ref|TableNameOnly=Resistor - 0603|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap538]
+Options=FieldName=Resistor - 0603.Library Path|TableNameOnly=Resistor - 0603|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap539]
+Options=FieldName=Resistor - 0603.Footprint Ref|TableNameOnly=Resistor - 0603|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap540]
+Options=FieldName=Resistor - 0603.Footprint Path|TableNameOnly=Resistor - 0603|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap541]
+Options=FieldName=Resistor - 0603.Sim Description|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap542]
+Options=FieldName=Resistor - 0603.Sim Kind|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap543]
+Options=FieldName=Resistor - 0603.Sim SubKind|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap544]
+Options=FieldName=Resistor - 0603.Sim Spice Prefix|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap545]
+Options=FieldName=Resistor - 0603.Sim Netlist|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap546]
+Options=FieldName=Resistor - 0603.Sim Port Map|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap547]
+Options=FieldName=Resistor - 0603.Sim File|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap548]
+Options=FieldName=Resistor - 0603.Sim Model Name|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap549]
+Options=FieldName=Resistor - 0603.Sim Parameters|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap550]
+Options=FieldName=Resistor - 0805.Component Name|TableNameOnly=Resistor - 0805|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap551]
+Options=FieldName=Resistor - 0805.Comment|TableNameOnly=Resistor - 0805|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap552]
+Options=FieldName=Resistor - 0805.Description|TableNameOnly=Resistor - 0805|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap553]
+Options=FieldName=Resistor - 0805.Library Ref|TableNameOnly=Resistor - 0805|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap554]
+Options=FieldName=Resistor - 0805.Library Path|TableNameOnly=Resistor - 0805|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap555]
+Options=FieldName=Resistor - 0805.Footprint Ref|TableNameOnly=Resistor - 0805|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap556]
+Options=FieldName=Resistor - 0805.Footprint Path|TableNameOnly=Resistor - 0805|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap557]
+Options=FieldName=Resistor - 0805.Sim Description|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap558]
+Options=FieldName=Resistor - 0805.Sim Kind|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap559]
+Options=FieldName=Resistor - 0805.Sim SubKind|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap560]
+Options=FieldName=Resistor - 0805.Sim Spice Prefix|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap561]
+Options=FieldName=Resistor - 0805.Sim Netlist|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap562]
+Options=FieldName=Resistor - 0805.Sim Port Map|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap563]
+Options=FieldName=Resistor - 0805.Sim File|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap564]
+Options=FieldName=Resistor - 0805.Sim Model Name|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap565]
+Options=FieldName=Resistor - 0805.Sim Parameters|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap566]
+Options=FieldName=Resistor - 1206.Component Name|TableNameOnly=Resistor - 1206|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap567]
+Options=FieldName=Resistor - 1206.Comment|TableNameOnly=Resistor - 1206|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap568]
+Options=FieldName=Resistor - 1206.Description|TableNameOnly=Resistor - 1206|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap569]
+Options=FieldName=Resistor - 1206.Library Ref|TableNameOnly=Resistor - 1206|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap570]
+Options=FieldName=Resistor - 1206.Library Path|TableNameOnly=Resistor - 1206|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap571]
+Options=FieldName=Resistor - 1206.Footprint Ref|TableNameOnly=Resistor - 1206|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap572]
+Options=FieldName=Resistor - 1206.Footprint Path|TableNameOnly=Resistor - 1206|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap573]
+Options=FieldName=Resistor - 1206.Sim Description|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap574]
+Options=FieldName=Resistor - 1206.Sim Kind|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap575]
+Options=FieldName=Resistor - 1206.Sim SubKind|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap576]
+Options=FieldName=Resistor - 1206.Sim Spice Prefix|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap577]
+Options=FieldName=Resistor - 1206.Sim Netlist|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap578]
+Options=FieldName=Resistor - 1206.Sim Port Map|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap579]
+Options=FieldName=Resistor - 1206.Sim File|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap580]
+Options=FieldName=Resistor - 1206.Sim Model Name|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap581]
+Options=FieldName=Resistor - 1206.Sim Parameters|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap582]
+Options=FieldName=Resistor - 1210.Component Name|TableNameOnly=Resistor - 1210|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap583]
+Options=FieldName=Resistor - 1210.Comment|TableNameOnly=Resistor - 1210|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap584]
+Options=FieldName=Resistor - 1210.Description|TableNameOnly=Resistor - 1210|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap585]
+Options=FieldName=Resistor - 1210.Library Ref|TableNameOnly=Resistor - 1210|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap586]
+Options=FieldName=Resistor - 1210.Library Path|TableNameOnly=Resistor - 1210|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap587]
+Options=FieldName=Resistor - 1210.Footprint Ref|TableNameOnly=Resistor - 1210|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap588]
+Options=FieldName=Resistor - 1210.Footprint Path|TableNameOnly=Resistor - 1210|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap589]
+Options=FieldName=Resistor - 1210.Sim Description|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap590]
+Options=FieldName=Resistor - 1210.Sim Kind|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap591]
+Options=FieldName=Resistor - 1210.Sim SubKind|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap592]
+Options=FieldName=Resistor - 1210.Sim Spice Prefix|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap593]
+Options=FieldName=Resistor - 1210.Sim Netlist|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap594]
+Options=FieldName=Resistor - 1210.Sim Port Map|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap595]
+Options=FieldName=Resistor - 1210.Sim File|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap596]
+Options=FieldName=Resistor - 1210.Sim Model Name|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap597]
+Options=FieldName=Resistor - 1210.Sim Parameters|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap598]
+Options=FieldName=Resistor - 2010.Component Name|TableNameOnly=Resistor - 2010|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap599]
+Options=FieldName=Resistor - 2010.Comment|TableNameOnly=Resistor - 2010|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap600]
+Options=FieldName=Resistor - 2010.Description|TableNameOnly=Resistor - 2010|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap601]
+Options=FieldName=Resistor - 2010.Library Ref|TableNameOnly=Resistor - 2010|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap602]
+Options=FieldName=Resistor - 2010.Library Path|TableNameOnly=Resistor - 2010|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap603]
+Options=FieldName=Resistor - 2010.Footprint Ref|TableNameOnly=Resistor - 2010|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap604]
+Options=FieldName=Resistor - 2010.Footprint Path|TableNameOnly=Resistor - 2010|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap605]
+Options=FieldName=Resistor - 2010.Sim Description|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap606]
+Options=FieldName=Resistor - 2010.Sim Kind|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap607]
+Options=FieldName=Resistor - 2010.Sim SubKind|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap608]
+Options=FieldName=Resistor - 2010.Sim Spice Prefix|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap609]
+Options=FieldName=Resistor - 2010.Sim Netlist|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap610]
+Options=FieldName=Resistor - 2010.Sim Port Map|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap611]
+Options=FieldName=Resistor - 2010.Sim File|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap612]
+Options=FieldName=Resistor - 2010.Sim Model Name|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap613]
+Options=FieldName=Resistor - 2010.Sim Parameters|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap614]
+Options=FieldName=Resistor - 2512.Component Name|TableNameOnly=Resistor - 2512|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap615]
+Options=FieldName=Resistor - 2512.Comment|TableNameOnly=Resistor - 2512|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap616]
+Options=FieldName=Resistor - 2512.Description|TableNameOnly=Resistor - 2512|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap617]
+Options=FieldName=Resistor - 2512.Library Ref|TableNameOnly=Resistor - 2512|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap618]
+Options=FieldName=Resistor - 2512.Library Path|TableNameOnly=Resistor - 2512|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap619]
+Options=FieldName=Resistor - 2512.Footprint Ref|TableNameOnly=Resistor - 2512|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap620]
+Options=FieldName=Resistor - 2512.Footprint Path|TableNameOnly=Resistor - 2512|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap621]
+Options=FieldName=Resistor - 2512.Sim Description|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap622]
+Options=FieldName=Resistor - 2512.Sim Kind|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap623]
+Options=FieldName=Resistor - 2512.Sim SubKind|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap624]
+Options=FieldName=Resistor - 2512.Sim Spice Prefix|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap625]
+Options=FieldName=Resistor - 2512.Sim Netlist|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap626]
+Options=FieldName=Resistor - 2512.Sim Port Map|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap627]
+Options=FieldName=Resistor - 2512.Sim File|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap628]
+Options=FieldName=Resistor - 2512.Sim Model Name|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap629]
+Options=FieldName=Resistor - 2512.Sim Parameters|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

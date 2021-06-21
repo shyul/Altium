@@ -1,0 +1,15 @@
+	This is a partial credits file of people on project.
+
+	The fields are:
+
+		N: name;
+		E: Email;
+		D: Description;
+		W: Web address.
+
+----------
+
+N: Xu Li
+E: me@xuli.us
+D: Hardware engineer and project co-founder.
+W: http://shyul.com
