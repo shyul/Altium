@@ -1,0 +1,12 @@
+1. Delete all files in fab folder and output files
+2. Re-Validate Schematic Project: No errors
+3. Update Schematic to PCB: No Difference
+4. Re-pour all polygons
+5. Re-build all split planes
+6. PCB DRC Check
+7. Save all files, 
+8. Commit Github
+9. Update the schematic to check no difference again
+10. Generate Fab Drawing
+11. Check if the PCB color palette is changed by draftman doc sync
+12. Generate Engineering Files
