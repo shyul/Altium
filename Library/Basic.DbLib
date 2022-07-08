@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\shyul\OneDrive - Facebook\Projects\Altium\Library\Basic\Basic.accdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Altium\Library\Basic\Basic.accdb;Persist Security Info=False
 AddMode=2
 RemoveMode=1
 UpdateMode=2
@@ -19,214 +19,145 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Resistor - 2512
+LastFocusedTable=Capacitor - Tantalum
 [Table1]
 SchemaName=
 TableName=Capacitor - 008004
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=289|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=124|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=125
 [Table2]
 SchemaName=
 TableName=Capacitor - 01005
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=283|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=57|Package Name0=97|Mfg Name0=76|Mfg PN0=127
 [Table3]
 SchemaName=
 TableName=Capacitor - 01005 - Hi-Q
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=309|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=178|Sim Model Name0=123|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=123
 [Table4]
 SchemaName=
 TableName=Capacitor - 015008
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=264|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=126|Sim Parameters0=100|Item ID0=89|Value0=63|Package Name0=97|Mfg Name0=76|Mfg PN0=126
 [Table5]
 SchemaName=
 TableName=Capacitor - 0201
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=283|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=63|Package Name0=97|Mfg Name0=76|Mfg PN0=127
 [Table6]
 SchemaName=
 TableName=Capacitor - 0201 - AEC-Q200
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=336|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=57|Package Name0=97|Mfg Name0=76|Mfg PN0=127
 [Table7]
 SchemaName=
 TableName=Capacitor - 0201 - Hi-Q
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=309|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=178|Sim Model Name0=124|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=124
 [Table8]
 SchemaName=
 TableName=Capacitor - 0402
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=266|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=125
 [Table9]
 SchemaName=
 TableName=Capacitor - 0402 - AEC-Q200
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=336|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=63|Package Name0=97|Mfg Name0=76|Mfg PN0=127
 [Table10]
 SchemaName=
 TableName=Capacitor - 0402 - AEC-Q200/Hi-Q
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=362|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=179|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=125
 [Table11]
 SchemaName=
 TableName=Capacitor - 0402 - Hi-Q
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=127|Comment0=72|Description0=309|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=178|Sim Model Name0=124|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=124
 [Table12]
 SchemaName=
 TableName=Capacitor - 0402 - Hi-Q/Hi-Power
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=372|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=182|Sim Model Name0=128|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=128
 [Table13]
 SchemaName=
 TableName=Capacitor - 0603
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=266|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=125
 [Table14]
 SchemaName=
 TableName=Capacitor - 0603 - AEC-Q200
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=342|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=125
 [Table15]
 SchemaName=
 TableName=Capacitor - 0603 - Hi-Q/Hi-Power
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=372|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=182|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=127
 [Table16]
 SchemaName=
 TableName=Capacitor - 0704
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=258|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=123
 [Table17]
 SchemaName=
 TableName=Capacitor - 0805
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=269|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=75|Package Name0=97|Mfg Name0=76|Mfg PN0=128
 [Table18]
 SchemaName=
 TableName=Capacitor - 0805 - AEC-Q200
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=119|Comment0=72|Description0=326|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=124|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=126
 [Table19]
 SchemaName=
 TableName=Capacitor - 0805 - Hi-Q/Hi-Power
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=372|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=182|Sim Model Name0=127|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=129
 [Table20]
 SchemaName=
 TableName=Capacitor - 1111 - Hi-Q/Hi-Power
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=133|Comment0=72|Description0=372|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=182|Sim Model Name0=129|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=132
 [Table21]
 SchemaName=
 TableName=Capacitor - 1206
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=273|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=126|Sim Parameters0=100|Item ID0=89|Value0=75|Package Name0=97|Mfg Name0=76|Mfg PN0=128
 [Table22]
 SchemaName=
 TableName=Capacitor - 1206 - AEC-Q200
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=121|Comment0=72|Description0=326|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=125|Sim Parameters0=100|Item ID0=89|Value0=69|Package Name0=97|Mfg Name0=76|Mfg PN0=129
 [Table23]
 SchemaName=
 TableName=Capacitor - 1210
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=118|Comment0=72|Description0=271|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=126|Sim Parameters0=100|Item ID0=89|Value0=75|Package Name0=97|Mfg Name0=76|Mfg PN0=126
 [Table24]
 SchemaName=
 TableName=Capacitor - 1210 - AEC-Q200
@@ -239,27 +170,18 @@ TableName=Capacitor - 1808
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=118|Comment0=72|Description0=270|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=123|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=123
 [Table26]
 SchemaName=
 TableName=Capacitor - 1812
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=269|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=126|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=126
 [Table27]
 SchemaName=
 TableName=Capacitor - 1812 - AEC-Q200
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=322|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=120|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=120
 [Table28]
 SchemaName=
 TableName=Capacitor - 2220
@@ -272,9 +194,6 @@ TableName=Capacitor - 2220 - AEC-Q200
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=322|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=120|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=120
 [Table30]
 SchemaName=
 TableName=Capacitor - Niobium - Size C
@@ -283,85 +202,70 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Item ID0=59|Comment0=72|Value0=52|Package Name0=97|Description0=319|Mfg Name0=76|Mfg PN0=120|Library Ref0=90|Library Path0=100|Footprint Ref0=92|Footprint Path0=123|Sim Description0=131|Sim Kind0=67|Sim SubKind0=89|Sim Spice Prefix0=102|Sim Netlist0=174|Sim Port Map0=91|Sim File0=181|Sim Model Name0=120|Sim Parameters0=100
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=261|Library Ref0=144|Library Path0=98|Footprint Ref0=112|Footprint Path0=122|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=59|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=119
 [Table31]
+SchemaName=
+TableName=Capacitor - Tantalum
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=124|Item ID0=59|Comment0=72|Value0=52|Package Name0=97|Description0=368|Mfg Name0=76|Mfg PN0=124|Library Ref0=144|Library Path0=98|Footprint Ref0=105|Footprint Path0=122|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100
+[Table32]
 SchemaName=
 TableName=Resistor - 01005
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=447|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=52|Package Name0=97|Mfg Name0=76|Mfg PN0=106
-[Table32]
+[Table33]
 SchemaName=
 TableName=Resistor - 0201
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=444|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=103
-[Table33]
+[Table34]
 SchemaName=
 TableName=Resistor - 0402
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=441|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=100
-[Table34]
+[Table35]
 SchemaName=
 TableName=Resistor - 0603
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table35]
+[Table36]
 SchemaName=
 TableName=Resistor - 0805
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=453|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=103
-[Table36]
+[Table37]
 SchemaName=
 TableName=Resistor - 1206
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=453|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=103
-[Table37]
+[Table38]
 SchemaName=
 TableName=Resistor - 1210
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=447|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=102
-[Table38]
+[Table39]
 SchemaName=
 TableName=Resistor - 2010
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=453|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=102
-[Table39]
+[Table40]
 SchemaName=
 TableName=Resistor - 2512
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=438|Library Ref0=77|Library Path0=100|Footprint Ref0=92|Footprint Path0=115|Sim Description0=118|Sim Kind0=67|Sim SubKind0=87|Sim Spice Prefix0=102|Sim Netlist0=77|Sim Port Map0=91|Sim File0=62|Sim Model Name0=109|Sim Parameters0=100|Item ID0=89|Value0=56|Package Name0=97|Mfg Name0=76|Mfg PN0=101
 [FieldMap1]
 Options=FieldName=Capacitor - 008004.Component Name|TableNameOnly=Capacitor - 008004|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -1333,290 +1237,322 @@ Options=FieldName=Capacitor - Niobium - Size C.Sim Model Name|TableNameOnly=Capa
 [FieldMap485]
 Options=FieldName=Capacitor - Niobium - Size C.Sim Parameters|TableNameOnly=Capacitor - Niobium - Size C|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap486]
-Options=FieldName=Resistor - 01005.Component Name|TableNameOnly=Resistor - 01005|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Component Name|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap487]
-Options=FieldName=Resistor - 01005.Comment|TableNameOnly=Resistor - 01005|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Comment|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap488]
-Options=FieldName=Resistor - 01005.Description|TableNameOnly=Resistor - 01005|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Description|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap489]
-Options=FieldName=Resistor - 01005.Library Ref|TableNameOnly=Resistor - 01005|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Library Ref|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap490]
-Options=FieldName=Resistor - 01005.Library Path|TableNameOnly=Resistor - 01005|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Library Path|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap491]
-Options=FieldName=Resistor - 01005.Footprint Ref|TableNameOnly=Resistor - 01005|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Footprint Ref|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap492]
-Options=FieldName=Resistor - 01005.Footprint Path|TableNameOnly=Resistor - 01005|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Footprint Path|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap493]
-Options=FieldName=Resistor - 01005.Sim Description|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Sim Description|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap494]
-Options=FieldName=Resistor - 01005.Sim Kind|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Sim Kind|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap495]
-Options=FieldName=Resistor - 01005.Sim SubKind|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Sim SubKind|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap496]
-Options=FieldName=Resistor - 01005.Sim Spice Prefix|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Sim Spice Prefix|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap497]
-Options=FieldName=Resistor - 01005.Sim Netlist|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Sim Netlist|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap498]
-Options=FieldName=Resistor - 01005.Sim Port Map|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Sim Port Map|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap499]
-Options=FieldName=Resistor - 01005.Sim File|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Sim File|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap500]
-Options=FieldName=Resistor - 01005.Sim Model Name|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Sim Model Name|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap501]
-Options=FieldName=Resistor - 01005.Sim Parameters|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor - Tantalum.Sim Parameters|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap502]
-Options=FieldName=Resistor - 0201.Component Name|TableNameOnly=Resistor - 0201|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Component Name|TableNameOnly=Resistor - 01005|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap503]
-Options=FieldName=Resistor - 0201.Comment|TableNameOnly=Resistor - 0201|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Comment|TableNameOnly=Resistor - 01005|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap504]
-Options=FieldName=Resistor - 0201.Description|TableNameOnly=Resistor - 0201|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Description|TableNameOnly=Resistor - 01005|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap505]
-Options=FieldName=Resistor - 0201.Library Ref|TableNameOnly=Resistor - 0201|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Library Ref|TableNameOnly=Resistor - 01005|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap506]
-Options=FieldName=Resistor - 0201.Library Path|TableNameOnly=Resistor - 0201|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Library Path|TableNameOnly=Resistor - 01005|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap507]
-Options=FieldName=Resistor - 0201.Footprint Ref|TableNameOnly=Resistor - 0201|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Footprint Ref|TableNameOnly=Resistor - 01005|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap508]
-Options=FieldName=Resistor - 0201.Footprint Path|TableNameOnly=Resistor - 0201|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Footprint Path|TableNameOnly=Resistor - 01005|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap509]
-Options=FieldName=Resistor - 0201.Sim Description|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Sim Description|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap510]
-Options=FieldName=Resistor - 0201.Sim Kind|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Sim Kind|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap511]
-Options=FieldName=Resistor - 0201.Sim SubKind|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Sim SubKind|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap512]
-Options=FieldName=Resistor - 0201.Sim Spice Prefix|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Sim Spice Prefix|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap513]
-Options=FieldName=Resistor - 0201.Sim Netlist|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Sim Netlist|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap514]
-Options=FieldName=Resistor - 0201.Sim Port Map|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Sim Port Map|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap515]
-Options=FieldName=Resistor - 0201.Sim File|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Sim File|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap516]
-Options=FieldName=Resistor - 0201.Sim Model Name|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Sim Model Name|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap517]
-Options=FieldName=Resistor - 0201.Sim Parameters|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 01005.Sim Parameters|TableNameOnly=Resistor - 01005|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap518]
-Options=FieldName=Resistor - 0402.Component Name|TableNameOnly=Resistor - 0402|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Component Name|TableNameOnly=Resistor - 0201|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap519]
-Options=FieldName=Resistor - 0402.Comment|TableNameOnly=Resistor - 0402|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Comment|TableNameOnly=Resistor - 0201|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap520]
-Options=FieldName=Resistor - 0402.Description|TableNameOnly=Resistor - 0402|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Description|TableNameOnly=Resistor - 0201|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap521]
-Options=FieldName=Resistor - 0402.Library Ref|TableNameOnly=Resistor - 0402|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Library Ref|TableNameOnly=Resistor - 0201|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap522]
-Options=FieldName=Resistor - 0402.Library Path|TableNameOnly=Resistor - 0402|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Library Path|TableNameOnly=Resistor - 0201|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap523]
-Options=FieldName=Resistor - 0402.Footprint Ref|TableNameOnly=Resistor - 0402|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Footprint Ref|TableNameOnly=Resistor - 0201|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap524]
-Options=FieldName=Resistor - 0402.Footprint Path|TableNameOnly=Resistor - 0402|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Footprint Path|TableNameOnly=Resistor - 0201|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap525]
-Options=FieldName=Resistor - 0402.Sim Description|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Sim Description|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap526]
-Options=FieldName=Resistor - 0402.Sim Kind|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Sim Kind|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap527]
-Options=FieldName=Resistor - 0402.Sim SubKind|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Sim SubKind|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap528]
-Options=FieldName=Resistor - 0402.Sim Spice Prefix|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Sim Spice Prefix|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap529]
-Options=FieldName=Resistor - 0402.Sim Netlist|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Sim Netlist|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap530]
-Options=FieldName=Resistor - 0402.Sim Port Map|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Sim Port Map|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap531]
-Options=FieldName=Resistor - 0402.Sim File|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Sim File|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap532]
-Options=FieldName=Resistor - 0402.Sim Model Name|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Sim Model Name|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap533]
-Options=FieldName=Resistor - 0402.Sim Parameters|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0201.Sim Parameters|TableNameOnly=Resistor - 0201|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap534]
-Options=FieldName=Resistor - 0603.Component Name|TableNameOnly=Resistor - 0603|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Component Name|TableNameOnly=Resistor - 0402|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap535]
-Options=FieldName=Resistor - 0603.Comment|TableNameOnly=Resistor - 0603|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Comment|TableNameOnly=Resistor - 0402|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap536]
-Options=FieldName=Resistor - 0603.Description|TableNameOnly=Resistor - 0603|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Description|TableNameOnly=Resistor - 0402|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap537]
-Options=FieldName=Resistor - 0603.Library Ref|TableNameOnly=Resistor - 0603|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Library Ref|TableNameOnly=Resistor - 0402|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap538]
-Options=FieldName=Resistor - 0603.Library Path|TableNameOnly=Resistor - 0603|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Library Path|TableNameOnly=Resistor - 0402|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap539]
-Options=FieldName=Resistor - 0603.Footprint Ref|TableNameOnly=Resistor - 0603|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Footprint Ref|TableNameOnly=Resistor - 0402|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap540]
-Options=FieldName=Resistor - 0603.Footprint Path|TableNameOnly=Resistor - 0603|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Footprint Path|TableNameOnly=Resistor - 0402|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap541]
-Options=FieldName=Resistor - 0603.Sim Description|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Sim Description|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap542]
-Options=FieldName=Resistor - 0603.Sim Kind|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Sim Kind|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap543]
-Options=FieldName=Resistor - 0603.Sim SubKind|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Sim SubKind|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap544]
-Options=FieldName=Resistor - 0603.Sim Spice Prefix|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Sim Spice Prefix|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap545]
-Options=FieldName=Resistor - 0603.Sim Netlist|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Sim Netlist|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap546]
-Options=FieldName=Resistor - 0603.Sim Port Map|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Sim Port Map|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap547]
-Options=FieldName=Resistor - 0603.Sim File|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Sim File|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap548]
-Options=FieldName=Resistor - 0603.Sim Model Name|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Sim Model Name|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap549]
-Options=FieldName=Resistor - 0603.Sim Parameters|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0402.Sim Parameters|TableNameOnly=Resistor - 0402|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap550]
-Options=FieldName=Resistor - 0805.Component Name|TableNameOnly=Resistor - 0805|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Component Name|TableNameOnly=Resistor - 0603|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap551]
-Options=FieldName=Resistor - 0805.Comment|TableNameOnly=Resistor - 0805|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Comment|TableNameOnly=Resistor - 0603|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap552]
-Options=FieldName=Resistor - 0805.Description|TableNameOnly=Resistor - 0805|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Description|TableNameOnly=Resistor - 0603|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap553]
-Options=FieldName=Resistor - 0805.Library Ref|TableNameOnly=Resistor - 0805|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Library Ref|TableNameOnly=Resistor - 0603|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap554]
-Options=FieldName=Resistor - 0805.Library Path|TableNameOnly=Resistor - 0805|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Library Path|TableNameOnly=Resistor - 0603|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap555]
-Options=FieldName=Resistor - 0805.Footprint Ref|TableNameOnly=Resistor - 0805|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Footprint Ref|TableNameOnly=Resistor - 0603|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap556]
-Options=FieldName=Resistor - 0805.Footprint Path|TableNameOnly=Resistor - 0805|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Footprint Path|TableNameOnly=Resistor - 0603|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap557]
-Options=FieldName=Resistor - 0805.Sim Description|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Sim Description|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap558]
-Options=FieldName=Resistor - 0805.Sim Kind|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Sim Kind|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap559]
-Options=FieldName=Resistor - 0805.Sim SubKind|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Sim SubKind|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap560]
-Options=FieldName=Resistor - 0805.Sim Spice Prefix|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Sim Spice Prefix|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap561]
-Options=FieldName=Resistor - 0805.Sim Netlist|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Sim Netlist|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap562]
-Options=FieldName=Resistor - 0805.Sim Port Map|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Sim Port Map|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap563]
-Options=FieldName=Resistor - 0805.Sim File|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Sim File|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap564]
-Options=FieldName=Resistor - 0805.Sim Model Name|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Sim Model Name|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap565]
-Options=FieldName=Resistor - 0805.Sim Parameters|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0603.Sim Parameters|TableNameOnly=Resistor - 0603|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap566]
-Options=FieldName=Resistor - 1206.Component Name|TableNameOnly=Resistor - 1206|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Component Name|TableNameOnly=Resistor - 0805|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap567]
-Options=FieldName=Resistor - 1206.Comment|TableNameOnly=Resistor - 1206|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Comment|TableNameOnly=Resistor - 0805|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap568]
-Options=FieldName=Resistor - 1206.Description|TableNameOnly=Resistor - 1206|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Description|TableNameOnly=Resistor - 0805|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap569]
-Options=FieldName=Resistor - 1206.Library Ref|TableNameOnly=Resistor - 1206|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Library Ref|TableNameOnly=Resistor - 0805|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap570]
-Options=FieldName=Resistor - 1206.Library Path|TableNameOnly=Resistor - 1206|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Library Path|TableNameOnly=Resistor - 0805|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap571]
-Options=FieldName=Resistor - 1206.Footprint Ref|TableNameOnly=Resistor - 1206|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Footprint Ref|TableNameOnly=Resistor - 0805|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap572]
-Options=FieldName=Resistor - 1206.Footprint Path|TableNameOnly=Resistor - 1206|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Footprint Path|TableNameOnly=Resistor - 0805|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap573]
-Options=FieldName=Resistor - 1206.Sim Description|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Sim Description|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap574]
-Options=FieldName=Resistor - 1206.Sim Kind|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Sim Kind|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap575]
-Options=FieldName=Resistor - 1206.Sim SubKind|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Sim SubKind|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap576]
-Options=FieldName=Resistor - 1206.Sim Spice Prefix|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Sim Spice Prefix|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap577]
-Options=FieldName=Resistor - 1206.Sim Netlist|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Sim Netlist|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap578]
-Options=FieldName=Resistor - 1206.Sim Port Map|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Sim Port Map|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap579]
-Options=FieldName=Resistor - 1206.Sim File|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Sim File|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap580]
-Options=FieldName=Resistor - 1206.Sim Model Name|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Sim Model Name|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap581]
-Options=FieldName=Resistor - 1206.Sim Parameters|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 0805.Sim Parameters|TableNameOnly=Resistor - 0805|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap582]
-Options=FieldName=Resistor - 1210.Component Name|TableNameOnly=Resistor - 1210|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Component Name|TableNameOnly=Resistor - 1206|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap583]
-Options=FieldName=Resistor - 1210.Comment|TableNameOnly=Resistor - 1210|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Comment|TableNameOnly=Resistor - 1206|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap584]
-Options=FieldName=Resistor - 1210.Description|TableNameOnly=Resistor - 1210|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Description|TableNameOnly=Resistor - 1206|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap585]
-Options=FieldName=Resistor - 1210.Library Ref|TableNameOnly=Resistor - 1210|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Library Ref|TableNameOnly=Resistor - 1206|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap586]
-Options=FieldName=Resistor - 1210.Library Path|TableNameOnly=Resistor - 1210|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Library Path|TableNameOnly=Resistor - 1206|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap587]
-Options=FieldName=Resistor - 1210.Footprint Ref|TableNameOnly=Resistor - 1210|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Footprint Ref|TableNameOnly=Resistor - 1206|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap588]
-Options=FieldName=Resistor - 1210.Footprint Path|TableNameOnly=Resistor - 1210|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Footprint Path|TableNameOnly=Resistor - 1206|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap589]
-Options=FieldName=Resistor - 1210.Sim Description|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Sim Description|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap590]
-Options=FieldName=Resistor - 1210.Sim Kind|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Sim Kind|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap591]
-Options=FieldName=Resistor - 1210.Sim SubKind|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Sim SubKind|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap592]
-Options=FieldName=Resistor - 1210.Sim Spice Prefix|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Sim Spice Prefix|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap593]
-Options=FieldName=Resistor - 1210.Sim Netlist|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Sim Netlist|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap594]
-Options=FieldName=Resistor - 1210.Sim Port Map|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Sim Port Map|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap595]
-Options=FieldName=Resistor - 1210.Sim File|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Sim File|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap596]
-Options=FieldName=Resistor - 1210.Sim Model Name|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Sim Model Name|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap597]
-Options=FieldName=Resistor - 1210.Sim Parameters|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1206.Sim Parameters|TableNameOnly=Resistor - 1206|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap598]
-Options=FieldName=Resistor - 2010.Component Name|TableNameOnly=Resistor - 2010|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Component Name|TableNameOnly=Resistor - 1210|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap599]
-Options=FieldName=Resistor - 2010.Comment|TableNameOnly=Resistor - 2010|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Comment|TableNameOnly=Resistor - 1210|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap600]
-Options=FieldName=Resistor - 2010.Description|TableNameOnly=Resistor - 2010|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Description|TableNameOnly=Resistor - 1210|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap601]
-Options=FieldName=Resistor - 2010.Library Ref|TableNameOnly=Resistor - 2010|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Library Ref|TableNameOnly=Resistor - 1210|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap602]
-Options=FieldName=Resistor - 2010.Library Path|TableNameOnly=Resistor - 2010|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Library Path|TableNameOnly=Resistor - 1210|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap603]
-Options=FieldName=Resistor - 2010.Footprint Ref|TableNameOnly=Resistor - 2010|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Footprint Ref|TableNameOnly=Resistor - 1210|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap604]
-Options=FieldName=Resistor - 2010.Footprint Path|TableNameOnly=Resistor - 2010|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Footprint Path|TableNameOnly=Resistor - 1210|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap605]
-Options=FieldName=Resistor - 2010.Sim Description|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Sim Description|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap606]
-Options=FieldName=Resistor - 2010.Sim Kind|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Sim Kind|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap607]
-Options=FieldName=Resistor - 2010.Sim SubKind|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Sim SubKind|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap608]
-Options=FieldName=Resistor - 2010.Sim Spice Prefix|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Sim Spice Prefix|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap609]
-Options=FieldName=Resistor - 2010.Sim Netlist|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Sim Netlist|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap610]
-Options=FieldName=Resistor - 2010.Sim Port Map|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Sim Port Map|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap611]
-Options=FieldName=Resistor - 2010.Sim File|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Sim File|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap612]
-Options=FieldName=Resistor - 2010.Sim Model Name|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Sim Model Name|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap613]
-Options=FieldName=Resistor - 2010.Sim Parameters|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 1210.Sim Parameters|TableNameOnly=Resistor - 1210|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap614]
-Options=FieldName=Resistor - 2512.Component Name|TableNameOnly=Resistor - 2512|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Component Name|TableNameOnly=Resistor - 2010|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap615]
-Options=FieldName=Resistor - 2512.Comment|TableNameOnly=Resistor - 2512|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Comment|TableNameOnly=Resistor - 2010|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap616]
-Options=FieldName=Resistor - 2512.Description|TableNameOnly=Resistor - 2512|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Description|TableNameOnly=Resistor - 2010|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap617]
-Options=FieldName=Resistor - 2512.Library Ref|TableNameOnly=Resistor - 2512|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Library Ref|TableNameOnly=Resistor - 2010|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap618]
-Options=FieldName=Resistor - 2512.Library Path|TableNameOnly=Resistor - 2512|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Library Path|TableNameOnly=Resistor - 2010|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap619]
-Options=FieldName=Resistor - 2512.Footprint Ref|TableNameOnly=Resistor - 2512|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Footprint Ref|TableNameOnly=Resistor - 2010|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap620]
-Options=FieldName=Resistor - 2512.Footprint Path|TableNameOnly=Resistor - 2512|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Footprint Path|TableNameOnly=Resistor - 2010|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap621]
-Options=FieldName=Resistor - 2512.Sim Description|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Sim Description|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap622]
-Options=FieldName=Resistor - 2512.Sim Kind|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Sim Kind|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap623]
-Options=FieldName=Resistor - 2512.Sim SubKind|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Sim SubKind|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap624]
-Options=FieldName=Resistor - 2512.Sim Spice Prefix|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Sim Spice Prefix|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap625]
-Options=FieldName=Resistor - 2512.Sim Netlist|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Sim Netlist|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap626]
-Options=FieldName=Resistor - 2512.Sim Port Map|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Sim Port Map|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap627]
-Options=FieldName=Resistor - 2512.Sim File|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Sim File|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap628]
-Options=FieldName=Resistor - 2512.Sim Model Name|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor - 2010.Sim Model Name|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap629]
+Options=FieldName=Resistor - 2010.Sim Parameters|TableNameOnly=Resistor - 2010|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap630]
+Options=FieldName=Resistor - 2512.Component Name|TableNameOnly=Resistor - 2512|FieldNameOnly=Component Name|FieldType=0|ParameterName=Component Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap631]
+Options=FieldName=Resistor - 2512.Comment|TableNameOnly=Resistor - 2512|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap632]
+Options=FieldName=Resistor - 2512.Description|TableNameOnly=Resistor - 2512|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap633]
+Options=FieldName=Resistor - 2512.Library Ref|TableNameOnly=Resistor - 2512|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap634]
+Options=FieldName=Resistor - 2512.Library Path|TableNameOnly=Resistor - 2512|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap635]
+Options=FieldName=Resistor - 2512.Footprint Ref|TableNameOnly=Resistor - 2512|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap636]
+Options=FieldName=Resistor - 2512.Footprint Path|TableNameOnly=Resistor - 2512|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap637]
+Options=FieldName=Resistor - 2512.Sim Description|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap638]
+Options=FieldName=Resistor - 2512.Sim Kind|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap639]
+Options=FieldName=Resistor - 2512.Sim SubKind|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim SubKind|FieldType=1|ParameterName=[Sim SubKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap640]
+Options=FieldName=Resistor - 2512.Sim Spice Prefix|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap641]
+Options=FieldName=Resistor - 2512.Sim Netlist|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap642]
+Options=FieldName=Resistor - 2512.Sim Port Map|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap643]
+Options=FieldName=Resistor - 2512.Sim File|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap644]
+Options=FieldName=Resistor - 2512.Sim Model Name|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap645]
 Options=FieldName=Resistor - 2512.Sim Parameters|TableNameOnly=Resistor - 2512|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
