@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Coxial
+LastFocusedTable=GPIO
 [Table1]
 SchemaName=
 TableName=Coxial
@@ -32,6 +32,9 @@ TableName=GPIO
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Component Name0=116|Comment0=72|Description0=187|Item ID0=59|Mfg Name0=96|Mfg PN0=74|Library Ref0=77|Library Path0=128|Footprint Ref0=92|Footprint Path0=128
 [Table3]
 SchemaName=
 TableName=GPIO - Molex
